@@ -1,6 +1,6 @@
 ### wassup 👋
 
-<!-- i'm ghili
+i'm ghili
 
 🔭 i’m currently working on:
   - polynomial commitments (and other crypto magic 🔮)
@@ -13,6 +13,6 @@
 
 😄 pronouns: he/him
 
-⚡ fun fact: i'm a big weeb -->
+⚡ fun fact: i'm a big weeb
 
 ![cat gif](moecat.gif)
