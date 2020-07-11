@@ -15,4 +15,4 @@ i'm ghili
 
 ⚡ fun fact: i'm a big weeb
 
-![giratina gif](giratina.gif)
+![cat gif](moecat.gif)
