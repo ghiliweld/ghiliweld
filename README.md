@@ -14,3 +14,5 @@ i'm ghili
 😄 pronouns: he/him
 
 ⚡ fun fact: i'm a big weeb
+
+![giratina gif](giratina.gif)
