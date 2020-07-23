@@ -32,6 +32,21 @@
          |                          ()===()
 ```
 
+```
+ _____________________________________________________
+| he's currently working on:                          |
+| - polynomial commitments (and other crypto magic 🔮)|
+| - p2p tech                                          |    (\___/)
+| - new experiences on the web                        >    (^ V ^)
+|_____________________________________________________| ___(|___|)___
+                                                      /|    🍵       |\
+                                                     | |             | |
+                                                     | |             | |
+                                                     | |             | |
+                                                     | |_____________| |
+                                                     |/_______________\|
+```
+
 this readme is a remix on [@mwvd](https://github.com/mwvd)'s readme
 
 <!-- kotatsu w/ owls around, or picnic under a sakura tree -->
