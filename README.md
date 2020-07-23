@@ -37,22 +37,22 @@ this readme is a remix of [@mwvd](https://github.com/mwvd)'s readme
 ```
  ╲
   ╲
-   ╲
-    ╲
+   ╲           
+    ╲            
      ╲
       ╲
        ╲
         ╲
          ╲________________
-         │ￆ
-         │ￄ
-         │         ￅ                 ______________________________________________________
-|\       │         ￃ                | he's currently working on:                          |
-| \      │         ￃ                | - backend @ eternal                                 |
-| |\     │         ￂ                | - polynomial commitments (and other crypto magic 🔮)|
+         │ￃ      ￃ  ￃ
+         │ￃ      ﾛￃ
+         │         ￃ                 ______________________________________________________
+|\       │                          | he's currently working on:                          |
+| \      │   ￃﾛ                     | - backend @ eternal                                 |
+| |\     │    ￃ                     | - polynomial commitments (and other crypto magic 🔮)|
 |\| |    │         ﾛ                | - p2p tech                                          |    (\___/) 
-| |\|    │         ﾡ                | - new experiences on the web                        >    (^ V ^)               
- \| |    │         ｺ                |_____________________________________________________| ___(|___|)___ 
+| |\|    │  ￃ|      ﾡ               | - new experiences on the web                        >    (^ V ^)               
+ \| |    │   ｺ                      |_____________________________________________________| ___(|___|)___ 
   \ |    │         ￃ                                                                      ⋰║    🍵      ║⋱        
    \|    │                                                                       (\___/) ⠭ ║             ║ ⠭
          │                             you can find him on twitter @ghiliweld >  ( ~ ,~) ⠭ ║🍜           ║ ⠭
