@@ -32,4 +32,4 @@
          |                          ()===()
 ```
 
-this readme is a remix on @mwvd 's readme
+this readme is a remix on [@mwvd](https://github.com/mwvd)'s readme
