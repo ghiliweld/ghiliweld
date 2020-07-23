@@ -31,4 +31,4 @@
          |                           ()⠭⠭⠭()
 ```
 
-this readme is a remix on [@mwvd](https://github.com/mwvd)'s readme
+this readme is a remix of [@mwvd](https://github.com/mwvd)'s readme
