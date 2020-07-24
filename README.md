@@ -41,14 +41,14 @@
        ╲
         ╲
          ╲________________
-         │ￃ  H   ￃ  ￃ
-         │ H     ￃ
-         │    H    ￃ       _____________________________________________________
+         │ￃ      ￃ  ￃ                                                                          ￃ H
+         │ H     ￃ                                                                              ￃ
+         │         ￃ       _____________________________________________________
 |\       │ ￃ              | he's currently working on:                          |
 | \      │                | - backend @ eternal                                 |
-| |\     │    ￃ   H       | - polynomial commitments (and other crypto magic 🔮)|
-|\| |    │       ￃ        | - p2p tech                                          |    (\___/) 
-| |\|    │  ￃ             | - new experiences on the web                        >    (^ V ^)               
+| |\     │                | - polynomial commitments (and other crypto magic 🔮)|
+|\| |    │                | - p2p tech                                          |    (\___/) 
+| |\|    │                | - new experiences on the web                        >    (^ V ^)               
  \| |    │          H ￃ   |_____________________________________________________| ___(|___|)___ 
   \ |    │         ￃ                                                            ⋰║    🍵      ║⋱        
    \|    │                                                             (\___/) ⠭ ║             ║ ⠭
@@ -59,8 +59,8 @@
          │                               
          |                                           
          │       ￃ H                  ∩   ∩
-         |        ￃ                  (•(ㅅ)•) < fun fact: he's also a huge weeb lol
-         |                           c  .  c
-         |                           ()⠭⠭⠭()
+         |        ￃ                  (•(ㅅ)•) < fun fact: he's also a huge weeb lol          H ￃ
+         |                           c  .  c                                                 ￃ
+         |                           ()⠭⠭⠭()                                               ￃ
 ``` 
 this readme is a remix of [@mwvd](https://github.com/mwvd)'s readme
