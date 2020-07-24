@@ -45,7 +45,7 @@ this readme is a remix of [@mwvd](https://github.com/mwvd)'s readme
         ╲
          ╲________________
          │ￃ      ￃ  ￃ
-         │ￃ      ﾛￃ
+         │ￃ   H   ﾛￃ
          │         ￃ                 ______________________________________________________
 |\       │                          | he's currently working on:                          |
 | \      │   ￃﾛ                     | - backend @ eternal                                 |
