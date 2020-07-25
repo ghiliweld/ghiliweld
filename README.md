@@ -9,7 +9,7 @@
        |  |__|  |                                               |__|  |__|  |
        |__|  |__|                                                  |__|  |__| 
        |  |__|   _____________________________________________________   |  |
-       |  |     | he's currently working on:                          |  |__| 
+       |  |     | ghili's currently working on:                       |  |__| 
 |\     |__|     | - backend @ eternal                                 |  
 | \    |        | - polynomial commitments                            |       
 | |\   |        | - p2p tech                                          |    (\___/)   
