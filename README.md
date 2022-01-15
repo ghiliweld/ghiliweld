@@ -10,9 +10,9 @@
        |__|  |__|                                                  |__|  |__| 
        |  |__|   _____________________________________________________   |  |
        |  |     | ghili's currently working on:                       |  |__| 
-|\     |__|     | - backend @ eternal                                 |  
-| \    |        | - polynomial commitments                            |       
-| |\   |        | - p2p tech                                          |    (\___/)   
+|\     |__|     | - mev strats                                        |  
+| \    |        | - defi x quant stuff                                |       
+| |\   |        | - polynomial commitments                            |    (\___/)   
 |\| |  |   __   | - new experiences on the web                        >    (^ V ^)       
 | |\|  |  |  |  |_____________________________________________________| ___(|___|)___   
  \| |  |__|  |__                                                      ⋰║    🍵      ║⋱ 
